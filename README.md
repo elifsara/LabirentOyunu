@@ -2,4 +2,4 @@
 # Labirent Oyunu
 
 
-![Labirent Oyunu Animasyonu](animasyon.gif)
+![Labirent Oyunu Animasyonu](Animation.gif)
